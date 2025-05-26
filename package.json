@@ -12,5 +12,8 @@
   "type": "commonjs",
   "devDependencies": {
     "tailwindcss": "^4.1.7"
+  },
+  "dependencies": {
+    "bootstrap-icons": "^1.13.1"
   }
 }
