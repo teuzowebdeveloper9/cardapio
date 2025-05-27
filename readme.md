@@ -68,6 +68,30 @@ The project is organized into the following main components:
 - Uses SVG for icons to ensure crisp rendering at all sizes.
 - Minimizes re-renders by using context selectively.
 
+## screenshots 
+
+![image](https://github.com/user-attachments/assets/1673fd2d-9631-4919-8b88-faedf4e641b8)
+
+![image](https://github.com/user-attachments/assets/8f3c0872-1d45-48bc-8be1-9e00c69df755)
+
+![image](https://github.com/user-attachments/assets/82fc7db0-a1f6-4ee0-a171-e1445918ea9b)
+
+![image](https://github.com/user-attachments/assets/c260ec78-7e81-4b4d-ac2d-d3b393827cb5)
+
+![image](https://github.com/user-attachments/assets/5b8113ba-56eb-4f13-a6d8-d4756e34692f)
+
+![image](https://github.com/user-attachments/assets/060c0f4c-e6a5-441e-8713-a2272035fd9d)
+
+![image](https://github.com/user-attachments/assets/c5c4ae3a-ab44-4d1f-881c-851c7943924c)
+-this is an animation using lottie not an image-
+
+![image](https://github.com/user-attachments/assets/eeceb071-d377-4be3-b9ca-3a2fab7336be)
+
+![image](https://github.com/user-attachments/assets/eefc8b04-833f-4d7a-941b-2a398e542c78)
+
+![image](https://github.com/user-attachments/assets/92191bfc-f183-4d4f-8582-589bcbce072b)
+
+
 ## how to run and test this project
 
 ```bash
