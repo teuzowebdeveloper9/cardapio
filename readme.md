@@ -1,6 +1,6 @@
 ## Project Overview
 
-This is a React-based web application for King's Burger, a fictional burger restaurant. The application showcases the restaurant's menu, allows users to add items to their cart, and simulates the order process.
+This is a React-based web application for King's Burger, a restaurant from my city. The application showcases the restaurant's menu, allows users to add items to their cart, and simulates the order process.
 
 ## Technical Stack
 
