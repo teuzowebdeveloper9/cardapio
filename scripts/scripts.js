@@ -80,12 +80,12 @@ function updateCartModal() {
       cartItemElement.innerHTML = `
        <div>
           <div>
-            <p class="font-medium">${item.name}</p>
-            <p class="font-medium mt-2">  ${item.quantity}</p>
-             <p class="font-bold mt-2">R$ ${item.price}</p>
+            <p className="font-medium">${item.name}</p>
+            <p className="font-medium mt-2">  ${item.quantity}</p>
+             <p className="font-bold mt-2">R$ ${item.price}</p>
           </div>
           <div>
-           <button class="bg-red-700 text-white p-2 rounded-md hover:bg-red-900">remove </button>
+           <button className="bg-red-700 text-white p-2 rounded-md hover:bg-red-900">remove </button>
           </div>
        </div>
       
