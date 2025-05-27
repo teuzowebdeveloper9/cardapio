@@ -30,6 +30,8 @@ const Modal = () => {
         }
     }
 
+
+
     
 
   return (
@@ -62,6 +64,7 @@ const Modal = () => {
         <p className="font-bold mt-3 mb-2">Endereço de entrega:</p>
         <input
           type="text"
+          
           value={valor}
           onChange={(e) => setValor(e.target.value)}
           placeholder="Digite seu endereço completo..."
