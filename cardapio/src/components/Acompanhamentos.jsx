@@ -42,7 +42,7 @@ const Acompanhamentos = () => {
                   }}
                 data-name="pepsi de 2 litros"
                 data-price="9"
-                className="bg-black w-20 h-8 text-red-800"
+                className="bg-black w-20 h-8 text-red-800 hover:scale-110 hover:bg-gray-600 hover:text-purple-800"
                 xmlns="http://www.w3.org/2000/svg"
                 fill="currentColor"
                 viewBox="0 0 16 16"
@@ -76,7 +76,7 @@ const Acompanhamentos = () => {
                   }}
                 data-name="coca-cola de 2 litros"
                 data-price="11"
-                className="bg-black w-20 h-8 text-red-800"
+                className="bg-black w-20 h-8 text-red-800 hover:scale-110 hover:bg-gray-600 hover:text-purple-800"
                 xmlns="http://www.w3.org/2000/svg"
                 fill="currentColor"
                 viewBox="0 0 16 16"
@@ -110,7 +110,7 @@ const Acompanhamentos = () => {
                   }}
                 data-name="guaraná antartida de 2 litros"
                 data-price="10"
-                className="bg-black w-20 h-8 text-red-800"
+                className="bg-black w-20 h-8 text-red-800 hover:scale-110 hover:bg-gray-600 hover:text-purple-800"
                 xmlns="http://www.w3.org/2000/svg"
                 fill="currentColor"
                 viewBox="0 0 16 16"
