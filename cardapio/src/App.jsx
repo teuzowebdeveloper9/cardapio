@@ -1,9 +1,8 @@
-import Acompanhamentos from "./components/Acompanhamentos"
-import CartFooter from "./components/CartFooter"
-import Header from "./components/Header"
-import Menu from "./components/Menu"
-import Modal from "./components/Modal"
 import { CarrinhoProvider, VisibilidadeProvider,QuantidadeProvider } from "./context/useContext"
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Cardapio from "./pages/cardapio";
+import Sucesso from "./pages/sucesso";
+
 
 
 
@@ -12,15 +11,25 @@ function App() {
 
   return (
     <QuantidadeProvider>
+
      <CarrinhoProvider>
+
       <VisibilidadeProvider>
-         <Header></Header>
-         <Menu></Menu>
-         <Modal></Modal>
-         <Acompanhamentos></Acompanhamentos>
-         <CartFooter></CartFooter>
+         
+         <BrowserRouter>
+           <Routes>
+
+             <Route path="/" element={<Cardapio></Cardapio>}></Route>
+             <Route path="/sucesso" element={<Sucesso></Sucesso>}></Route>
+
+           </Routes>
+         </BrowserRouter>
+
+
        </VisibilidadeProvider>
+
       </CarrinhoProvider>
+
        </QuantidadeProvider>
    
   )
